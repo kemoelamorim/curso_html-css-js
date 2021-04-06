@@ -1,2 +1,2 @@
-# Curso_html-css
-Criação de Site com HTML/CSS
+# curso_html-css-js
+Introdução ao javascript
